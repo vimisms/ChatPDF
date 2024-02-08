@@ -80,12 +80,6 @@ class _ChatScreenState extends State<ChatScreen> {
               ],
               "messages": [
                 prompts[0],
-                prompts[1],
-                prompts[2],
-                prompts[3],
-                prompts[4],
-                prompts[5],
-                prompts[6],
                 {
                   "role": "user",
                   "content": text
